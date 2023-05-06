@@ -1,0 +1,6 @@
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/obj/x86/Debug/Inyeccion_.csproj.AssemblyReference.cache
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/obj/x86/Debug/Inyeccion_.csproj.CoreCompileInputs.cache
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/bin/Debug/Inyeccion_.exe
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/bin/Debug/Inyeccion_.pdb
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/obj/x86/Debug/Inyeccion_.exe
+/home/alejandro/Projects/Inyeccion_/Inyeccion_/obj/x86/Debug/Inyeccion_.pdb
