@@ -1,0 +1,95 @@
+{
+    "Vehiculo": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo1"},
+                    "Description": {"S": "Auto Toyota"},
+                    "Price": {"N": "15000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo2"},
+                    "Description": {"S": "Camioneta Ford"},
+                    "Price": {"N": "25000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo3"},
+                    "Description": {"S": "Moto Kawasaki"},
+                    "Price": {"N": "10000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo4"},
+                    "Description": {"S": "Camion Volvo"},
+                    "Price": {"N": "50000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo5"},
+                    "Description": {"S": "Auto Honda"},
+                    "Price": {"N": "20000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo6"},
+                    "Description": {"S": "Moto Harley Davidson"},
+                    "Price": {"N": "15000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo7"},
+                    "Description": {"S": "Camioneta Chevrolet"},
+                    "Price": {"N": "30000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo8"},
+                    "Description": {"S": "Auto Ford"},
+                    "Price": {"N": "18000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo9"},
+                    "Description": {"S": "Moto Yamaha"},
+                    "Price": {"N": "8000"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {"S": "vehiculo10"},
+                    "Description": {"S": "Camion Mercedes Benz"},
+                    "Price": {"N": "70000"}
+                }
+            }
+        }
+    ]
+}
+
